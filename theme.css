@@ -1,0 +1,66 @@
+/* Farcaster by @kepano */
+
+body {
+    --link-decoration: none;
+}
+.theme-light,
+.theme-dark {
+  --red:#D51338;
+  --orange:#cb4b16;
+  --yellow:#b58900;
+  --green:#43B749;
+  --cyan:#2aa198;
+  --blue:#5297EF;
+  --purple:#6c71c4;
+  --pink:#d33682;
+}
+.theme-light {
+  --accent-h: 257;
+  --accent-s: 47%;
+  --accent-l: 59%;
+
+  --color-accent: #0266D6;
+  --color-accent-2: #0266D6;
+  --color-accent-hsl: 212, 98%, 42%;
+
+  --color-base-00:#fff;
+  --color-base-05:#FAFBFC;
+  --color-base-10:#FAFBFC;
+  --color-base-20:#FAFBFC;
+  --color-base-25:#F1F2F4;
+
+  --color-base-30:#EAECEE;
+  --color-base-35:#EAECEE;
+  --color-base-40:#EAECEE;
+
+  --color-base-50: #8B99A4;
+  --color-base-60: #6B7280;
+  --color-base-70: #586e75;
+  --color-base-100: #24292F;
+
+
+}
+.theme-dark {
+  --accent-h: 257;
+  --accent-s: 47%;
+  --accent-l: 59%;
+
+  --color-accent: #5297EF;
+  --color-accent-2: #5297EF;
+  --color-accent-hsl: 214, 83%, 63%;
+
+  --color-base-00:#22272E;
+  --color-base-10:#22272E;
+  --color-base-20:#22272E;
+  --color-base-25:#2D333B;
+
+  --color-base-30:#2D323A;
+  --color-base-35:#2D323A;
+  --color-base-40:#2D323A;
+
+  --color-base-50: #586e75;
+  --color-base-60: #6B7280;
+  --color-base-70: #8B99A4;
+  --color-base-100: #ACBAC7;
+
+}

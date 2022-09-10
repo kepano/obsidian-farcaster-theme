@@ -1,1 +1,1 @@
-# obsidian-farcaster-theme
+ An Obsidian theme using the colors from the [Farcaster](https://www.farcaster.xyz/) app
