@@ -2,6 +2,6 @@
 
  Requires Obsidian 0.16+
 
- Not yet available in theme store. To install download and unzip and add the folder to your vault in `.obsidian/themes`
+ Not yet available in theme store. To install: unzip into a folder called `Farcaster` under `.obsidian/themes` in your vault
 
  ![Screenshot](screenshot.png)
