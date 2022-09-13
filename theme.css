@@ -14,7 +14,7 @@ body {
   --purple:#6c71c4;
   --pink:#d33682;
 }
-.theme-light {
+body.theme-light {
   --accent-h: 257;
   --accent-s: 47%;
   --accent-l: 59%;
@@ -38,7 +38,7 @@ body {
   --color-base-70: #586e75;
   --color-base-100: #24292F;
 
-
+  --background-modifier-hover: #EAECEE;
 }
 .theme-dark {
   --accent-h: 257;
@@ -62,5 +62,8 @@ body {
   --color-base-60: #6B7280;
   --color-base-70: #8B99A4;
   --color-base-100: #ACBAC7;
+
+  --titlebar-background-focused: #22272E;
+  --background-modifier-hover: #2D333B;
 
 }
